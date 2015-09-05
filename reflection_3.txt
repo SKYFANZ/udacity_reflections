@@ -15,10 +15,3 @@ A: Github -> Github == forks
    Github -> Local  == clones
    
    Local -> Local   == branches; Github -> Github == branches
-Q2: Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
-A: Github -> Github == forks
-
-   Github -> Local  == clones
-   
-   Local -> Local   == branches; Github -> Github == branches
