@@ -2,5 +2,10 @@ this is the lesson_2.
 1. I have learned how to init a repository in git
 	
    Next, it'll be how to upload the file to github using terminal
+2. Q: How do the diagrams help you visualize the branch structure?
 
+   By using command: git log --graph --oneline 
+   or              : git log --graph --oneline branch1 branch2
+
+   I can see the commit structure very clearly.
 [END]
