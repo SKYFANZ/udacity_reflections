@@ -1,0 +1,6 @@
+this is the lesson_2.
+1. I have learned how to init a repository in git
+	
+   Next, it'll be how to upload the file to github using terminal
+
+[END]
